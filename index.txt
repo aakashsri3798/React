@@ -1,0 +1,17 @@
+1.  Flow of the class
+
+EVERY CLASS HAS FIVE SECTIONS
+
+1.  CONTENT
+2.  HOMEWORK
+3.  ASSIGNMENT
+4.  THEORY 
+5.  CODE
+
+-> create a hello world program using simple html tag
+-> create a hello world program using js to manipulate dom
+-> create a hello world program using react by importing react through CDN links
+
+
+
+
